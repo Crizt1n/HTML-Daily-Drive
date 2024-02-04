@@ -1,0 +1,25 @@
+:root{
+    --x: blue;
+    --y: red;
+    --z: green;
+    --backg: black;
+
+
+
+
+}
+
+#para1{
+    color: var(--x);
+
+}
+#para2{
+    color: var(--y);
+}
+h1{
+    color: var(--z);
+}
+body
+{
+    background-color: var(--backg);
+}

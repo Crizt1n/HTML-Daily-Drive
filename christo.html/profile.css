@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Lugrasimo', cursive;
+}
+p{padding: 10px;
+  
+}
+h3{
+    padding: 50px;
+}
+.images{
+    width: 45%;
+    height: 80%;
+    position: absolute;
+    right: 70px;
+    bottom: 0px;
+   
+}
+#christo{
+    height: 550px;
+}
+#png{
+    width: 45%;
+    height: 550px;
+    left: 50px;
+}
+.images img{
+    position: absolute;
+    height: 100%;
+    left: 10px;
+    transform: translateX(10%);
+    transition: bottom 1s, left 1s;
+    bottom: 0px;
+
+}
+.images:hover #christo{
+    bottom: 40px;
+
+}
+.images:hover #png{
+    left: 40%;
+}

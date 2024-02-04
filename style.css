@@ -1,0 +1,30 @@
+/* *{
+    padding: 50px;
+} */
+p{
+    background-color: rgb(138, 184, 101);
+}
+h1{
+    background-color: rgb(218, 121, 9);
+}
+#para2{
+    font-size: 20px;
+}
+#para3{
+    background-color: rgb(219, 21, 133);
+}
+.p1{
+    color: rgb(245, 247, 247);
+}
+p3{font-size: larger;}
+.p4{
+    font-size: 20px;
+    border: 60px ridge rgb(47, 8, 206);
+    padding: 60px;
+   /*  margin:0px 70px 0px 70px; */
+   margin: 100px 50px;
+    
+}
+*{
+    background-color: rgb(143, 167, 88);
+}

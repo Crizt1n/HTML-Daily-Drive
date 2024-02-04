@@ -1,0 +1,14 @@
+header{
+    width: 100%;
+    height: 700px;
+   background-image: url(https://images.ctfassets.net/pdf29us7flmy/2FGoY1OTJEAy7M5myH5XgE/88a4e0fffa926bbcb89510a488690036/Submitting-a-writing-sample-for-job-FINAL-no-paper-02.jpg?w=720&q=100&fm=jpg);
+   background-repeat: no-repeat;
+background-size: cover;
+background-position: bottom;
+background-attachment: fixed;
+opacity: 0.5;
+}
+body
+{
+    margin: 0px;
+}
